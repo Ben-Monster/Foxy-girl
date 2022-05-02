@@ -1,7 +1,7 @@
 
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/semoandroidwa/SemoBotV4 /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Ben-Monster/foxy-girl/root/WhatsAsenaDuplicated
 
 WORKDIR /root/WhatsAsenaDuplicated/
 
