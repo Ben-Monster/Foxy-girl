@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CEHunter30/FOXIT.git"
+    "url": "git+https://github.com/Ben-Monster/Foxy-girl.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "CEHunter30",
-  "developer": "@CEHunter30 / @CEHunter30",
+  "author": "Ben-Monster",
+  "developer": "@Ben-Monster / @Ben-Monster ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/CEHunter30/FOXIT/issues"
+    "url": "https://github.com/Ben-Monster/FOXY-GIRL/issues"
   },
-  "homepage": "https://github.com/CEHunter30/FOXIT#readme",
+  "homepage": "https://github.com/Ben-Monster/FOXY-GIRL#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
