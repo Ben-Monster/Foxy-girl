@@ -1,0 +1,9 @@
+build:
+
+  docker:
+
+      worker: /foxy-girl/Dockerfile
+
+run:
+
+   worker: npm start
